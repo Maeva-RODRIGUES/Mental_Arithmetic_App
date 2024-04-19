@@ -17,5 +17,5 @@ Conception d'un jeu interactif en JavaScript pour pratiquer les additions de chi
 ![Screenshot](./assets/img/Screenshot.PNG)
 
 ## 🔗 Liens vers la démo
-![Démo](https://maeva-rodrigues.github.io/Mental_Arithmetic_App/)
+https://maeva-rodrigues.github.io/Mental_Arithmetic_App/
 
